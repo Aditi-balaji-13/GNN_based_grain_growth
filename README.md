@@ -68,8 +68,8 @@ python test_main.py
 ```
 ---
 ## 👩‍💻 Author
-Aditi Balaji \\
-B.Tech in Metallurgical and Materials Engineering \\
+Aditi Balaji \
+B.Tech in Metallurgical and Materials Engineering \
 Indian Institute of Technology, Madras
 ---
 ## 📄 License
