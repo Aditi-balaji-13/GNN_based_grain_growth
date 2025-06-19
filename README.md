@@ -68,9 +68,11 @@ python test_main.py
 ```
 ---
 ## 👩‍💻 Author
+
 Aditi Balaji \
 B.Tech in Metallurgical and Materials Engineering \
 Indian Institute of Technology, Madras
+
 ---
 ## 📄 License
 This code is for academic and non-commercial research purposes only.
